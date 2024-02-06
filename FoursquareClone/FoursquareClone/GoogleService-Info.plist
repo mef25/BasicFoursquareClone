@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC_TseRPuXLIU_JZ230FkGHY_nGMDZ5mqc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>538778835258</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mef.FoursquareClone</string>
+	<key>PROJECT_ID</key>
+	<string>foursquareclone-ff278</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foursquareclone-ff278.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:538778835258:ios:76336d5dc6415e9c685803</string>
+</dict>
+</plist>
